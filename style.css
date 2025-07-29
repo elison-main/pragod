@@ -445,7 +445,7 @@ nav ul li a:hover::after {
 
 /* **NOVA REGRA:** Animação e cor apenas para o ícone do coração */
 .stat-item .heart-pulsing-icon {
-    animation: pulse-color 1s ease-in-out 10 forwards; /* 3 ciclos de 1.5s = 4.5s */
+    animation: pulse-color 1s ease-in-out 10 forwards; /* 10 ciclos de 1s = 10s */
 }
 
 @keyframes pulse-color {
